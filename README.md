@@ -1,0 +1,2 @@
+# pjwstk
+dane z r
